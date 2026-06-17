@@ -10,4 +10,4 @@ I suggest using these zips that I created.
 4. Copy each `.dictionary` folder under your `/Users/<user>/Library/Dictionaries`
 5. Go to `Preferences/Settings` (command + ,)
 6. Enable the Hungarian dictionaries. Enjoy. (〜￣U￣)〜♫♩♪ヽ(ᐖヽ*)♬
- <img width="548" alt="kép" src="https://github.com/bycym/hun-dic-macos/assets/6736080/41a58f7f-3928-4162-9cda-cce467fff2fd">
+ <img width="548" alt="kép" src="./screenshot.png">
